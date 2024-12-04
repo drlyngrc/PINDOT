@@ -58,6 +58,16 @@ The application operates via **Wi-Fi**, ensuring:
 
 ---
 
+### 📹 Video Demonstration
+Experience PINDOT in action! Watch the video below to see how it works:
+<video width="600" controls>
+  <source src="path_to_your_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+---
+
 ## 👨‍💻 Developers  
 Meet the team behind **PINDOT**:  
 
