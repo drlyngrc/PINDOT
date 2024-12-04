@@ -61,7 +61,7 @@ The application operates via **Wi-Fi**, ensuring:
 ### 📹 Video Demonstration
 Experience PINDOT in action! Watch the video below to see how it works:
 
-[![Watch the video](https://drive.google.com/drive/folders/1-8FyeWxa233AAX0Oetx16BRwiNe_TpOj)](https://github.com/glngnbn/PINDOT/blob/main/Video/HowToUsePINDOT.mp4)
+![Watch the video](https://drive.google.com/drive/folders/1-8FyeWxa233AAX0Oetx16BRwiNe_TpOj)
 
 
 
