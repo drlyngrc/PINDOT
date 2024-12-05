@@ -2,7 +2,10 @@
 
 Welcome to **PINDOT**, a smart home mobile application designed to simplify your living space. With PINDOT, control your room's electrical devices at your fingertips, ensuring comfort, efficiency, and ease of use.
 
+<div align="center"><img src="Image/pindot.png" alt="PINDOT main" width="600" height="400">  </div>
+
 ---
+
 
 ## 🌟 Features  
 - **💡 Remote Device Control**: Turn electrical devices on or off with just a tap.  
