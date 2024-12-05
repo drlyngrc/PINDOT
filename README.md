@@ -1,5 +1,6 @@
-# 📱 Personal Interactive Network for Digital Operations & Technology (PINDOT)
-
+# <img src="Image/mainlogo.png" alt="PINDOT Icon" width="30" height="30"> PINDOT
+## Personal Interactive Network for Digital Operations & Technology 
+ 
 Welcome to **PINDOT**, a smart home mobile application designed to simplify your living space. With PINDOT, control your room's electrical devices at your fingertips, ensuring comfort, efficiency, and ease of use.
 
 <div align="center"><img src="Image/pindot.png" alt="PINDOT main" width="600" height="400">  </div>
